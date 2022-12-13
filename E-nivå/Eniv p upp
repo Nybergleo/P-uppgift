@@ -1,0 +1,34 @@
+Välkommen till biblioteksprogrammet!
+
+T söka på Titel. ------ sim
+F söka på Författare. ----- sim
+L Låna bok.  ----- klass
+Å Återlämna bok. ------ klass
+N lägga in Ny bok. sim
+B ta Bort bok. ----- sim
+A lista Alla böcker. ----- sim
+S Sluta. ---- sim
+
+Vad vill du göra? F
+
+Vilken författare vill du söka efter? Martin
+Hittade 2 böcker
+Martin: Agile software development (utlånad)
+Martin: Clean Code
+Vad vill du göra? L
+Ange titeln på den bok du vill låna: Clean Code
+Vad vill du göra? s
+
+Välkommen åter!
+
+Tips: Skriv programmet i ett
+
+Välkommen till biblioteksprogrammet!
+	T söka på Titel klar
+	F söka på Författare. Kanaske klar beroende på alfabetiskt ordning
+	L Låna bok. klar
+	Å Återlämna bok. klar
+	N lägga in Ny bok.
+	B ta Bort bok.
+	A lista Alla böcker.
+	S Sluta.

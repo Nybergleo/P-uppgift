@@ -1,0 +1,2 @@
+"Nybergleo", "leony@kth.se", "Gnegga", "A"
+"Vich", "vich@kth.se", "Balle", "U"
